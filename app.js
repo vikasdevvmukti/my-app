@@ -51,7 +51,7 @@ const page = `<!DOCTYPE html>
   <div class="field"></div>
   <div class="card">
     <div class="eyebrow">Good to see you</div>
-    <h1>Welcome, <em>DADA</em></h1>
+    <h1>Welcome, <em>Vikas</em></h1>
     <div class="rule"></div>
     <p class="sub">This page loaded — your pipeline is working.</p>
   </div>
