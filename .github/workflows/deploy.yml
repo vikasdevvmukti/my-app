@@ -1,4 +1,4 @@
-name: Deploy a Node code on EC2 using Github Actions
+name: Deploy a Node code on EC2 using Github Action
 
 on:
   push:
