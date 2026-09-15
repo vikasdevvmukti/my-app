@@ -1,0 +1,13 @@
+{
+  "name": "docker-notes-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js + MongoDB app for Docker/Docker Compose practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0"
+  }
+}
